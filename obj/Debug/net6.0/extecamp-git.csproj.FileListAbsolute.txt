@@ -1,0 +1,15 @@
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/bin/Debug/net6.0/extecamp-git
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/bin/Debug/net6.0/extecamp-git.deps.json
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/bin/Debug/net6.0/extecamp-git.runtimeconfig.json
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/bin/Debug/net6.0/extecamp-git.dll
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/bin/Debug/net6.0/extecamp-git.pdb
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.csproj.AssemblyReference.cache
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.GeneratedMSBuildEditorConfig.editorconfig
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.AssemblyInfoInputs.cache
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.AssemblyInfo.cs
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.csproj.CoreCompileInputs.cache
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.dll
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/refint/extecamp-git.dll
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.pdb
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/extecamp-git.genruntimeconfig.cache
+/home/sathya/backup/unicamp/aula-git/projeto/extecamp-git/obj/Debug/net6.0/ref/extecamp-git.dll
