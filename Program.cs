@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System;  //alteração realizada por BrenoCSenna
+
 
 class Program
 {
@@ -22,5 +23,5 @@ class Program
         {
             Console.WriteLine("Nenhum número divisível por 7, 13 e 17 encontrado entre 1 e 1000.");
         }
-    }
+    }   //Alteração realizada por BrenoCSenna
 }
