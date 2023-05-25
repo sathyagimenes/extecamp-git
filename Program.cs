@@ -1,5 +1,5 @@
-﻿// Alteração realizada por sathya
-// Outra alteração realizada por sathya
+﻿//Alteração realizada por tiago
+//Outra alteração realizada por tiago
 using System;
 
 class Program
